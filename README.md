@@ -36,7 +36,7 @@ I thrive on learning, improving, and using data to drive smarter decisions.
 ---
 ## 📂 Projects
 
-- [Target Retail SQL Project](#target-retail-sql-project)
+- [Target Retail SQL Project](#target-ecommerce-sql-project)
 - [Agri Market Web Scraping](#agri-market-web-scraping)
 - [Power BI Dashboards](#power-bi-dashboards)
 
