@@ -34,6 +34,12 @@ I thrive on learning, improving, and using data to drive smarter decisions.
 | Learning Next   | Machine Learning, Predictive Modeling |
 
 ---
+## 📂 Projects
+
+- [Target Retail SQL Project](#target-retail-sql-project)
+- [Agri Market Web Scraping](#agri-market-web-scraping)
+- [Power BI Dashboards](#power-bi-dashboards)
+
 
 ## 🏆 My Strengths
 - 🔥 Strong analytical & problem-solving mindset  
