@@ -45,8 +45,8 @@ I thrive on learning, improving, and using data to drive smarter decisions.
 ---
 
 ## 📈 What I’m Working On
-- 📘 Deep Python revision (functions, HOFs, logic building)  
-- 🔍 Mini data analysis projects using Python  
+- 📘 Deep Python revision 
+- 🔍 Real world data analysis projects using Python  
 - 📊 Building Power BI dashboards  
 - 🧽 Improving data cleaning and preprocessing skills  
 - 🎯 Preparing for Data Analyst interviews and projects  
