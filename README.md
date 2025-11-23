@@ -1,36 +1,24 @@
 # 👋 Hey there, I'm Vishal Chavanke  
-🚀 Aspiring Data Analyst | Problem Solver | Turning Data Into Insights
+🚀 Data Analyst (Python | SQL | Power BI | Excel)
 
 ---
 
 ## 🌟 Professional Summary
-I am a highly driven and motivated **Data Analyst** who loves turning complex data into clear, meaningful insights.  
-I have a strong analytical mindset, excellent logical thinking, and a natural ability to understand real-world problems.  
-My attitude is simple: **I don’t wait for solutions — I find them.**  
-I thrive on learning, improving, and using data to drive smarter decisions.
+I am a Data Analyst with strong practical skills and hands-on project experience across Python, SQL, Excel, and Power BI. I confidently handle data cleaning, analysis, and insight generation with a clear, problem-solving mindset.
+I am ready to work on real company projects and contribute with clarity, responsibility, and consistent results.
 
 ✨ *“Every problem has a solution — and data brings us closer to it.”*
 
 ---
 
-## 🔍 About Me
-- 📊 Passionate about Data Analysis, Visualization & Storytelling  
-- 🐍 Currently mastering Python with focus on logic building  
-- 🧠 Skilled in SQL, data cleaning, and problem-solving  
-- 📈 Dedicated to becoming a high-impact Data Analyst  
-- 💡 Love exploring data patterns, insights, and business solutions  
-- 🔄 Consistent learner with strong self-motivation and discipline  
-
----
-
-## 🧰 My Tech Stack
+## 🧰 Skills
 
 | Category        | Tools / Skills                       |
 |-----------------|---------------------------------------|
 | Programming     | **Python**, **SQL**                   |
-| Data Handling   | **Excel**, Pandas, NumPy (learning)   |
-| Visualization   | Power BI, Tableau (learning)          |
-| Analytics       | EDA, Statistics, Data Cleaning        |
+| Data Handling   | **Excel**, Pandas, NumPy, Matplotlib, Seaborn |
+| Visualization   | Power BI, Tableau,        |
+| Analytics       | EDA, Statistics, Data Cleaning,         |
 | Learning Next   | Machine Learning, Predictive Modeling |
 
 ---
@@ -39,23 +27,7 @@ I thrive on learning, improving, and using data to drive smarter decisions.
 - [Target Retail SQL Project](#target-ecommerce-sql-project)
 - [Agri Market Web Scraping](#agri-market-web-scraping)
 - [Power BI Dashboards](#power-bi-dashboards)
-
-
-## 🏆 My Strengths
-- 🔥 Strong analytical & problem-solving mindset  
-- 🧠 Fast learner with sharp logical thinking  
-- 🎯 Dedicated, disciplined, and highly motivated  
-- 📊 Ability to turn raw data into meaningful insights  
-- 🤝 Positive communication and teamwork attitude  
-
----
-
-## 📈 What I’m Working On
-- 📘 Deep Python revision 
-- 🔍 Real world data analysis projects using Python  
-- 📊 Building Power BI dashboards  
-- 🧽 Improving data cleaning and preprocessing skills  
-- 🎯 Preparing for Data Analyst interviews and projects  
+- [Cerdit card analysis](#power-bi-dashboards)
 
 ---
 
