@@ -7,7 +7,7 @@
 I am a Data Analyst with strong practical skills and hands-on project experience across Python, SQL, Excel, and Power BI. I confidently handle data cleaning, analysis, and insight generation with a clear, problem-solving mindset.
 I am ready to work on real company projects and contribute with clarity, responsibility, and consistent results.
 
-✨ *“Every problem has a solution — and data brings us closer to it.”*
+✨ *"I prefer simple logic, clean data flow, and easy-to-read visuals. I always focus on solving the real problem instead of making things complicated.”*
 
 ---
 
