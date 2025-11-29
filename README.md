@@ -1,6 +1,5 @@
 # 👋 Hey there, I'm Vishal Chavanke  
 🚀 Data Analyst (Python | SQL | Power BI | Excel)
-
 ---
 
 ## 🌟 About me
